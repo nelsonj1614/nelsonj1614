@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, I'm James, a Data Scientist with a passion for education. 👋
 
-<!--
-**nelsonj1614/nelsonj1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](www.linkedin.com/in/james-nelson-39b41517a)
+[Resume](https://docs.google.com/document/d/1o2JkTBginy6LRU5YD8rUXwrg6eOmTYypLe1HT4EhDxI/edit?usp=sharing)
+[Project Repository]()
 
-Here are some ideas to get you started:
+Experience is often the harshest, yet most effective of teachers. From my previous experience in the construction, legal and educational fields, I have learned the importance of data-driven decision making. Companies and organizations that do not take advantage of the data collection, analysis and modeling opportunities available suffer financial loss, unnecessary risk and organizational dysfunction. Time and time again, I have watched as construction managers, law firm managing partners and educators have refused to listen to the data and suffered the consequences as a result. Realizing this brought me to the data science field and has opened up many new methods and strategies to solve business problems. As a recent graduate of TripleTen's Data Science bootcamp, I am excited to participate in new and innovative projects with creative people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my spare time I enjoy playing the guitar, rock climbing and creating multimedia educational/entertainment resources.
+
+Currently my primary skills are: 
+Python | EDA (Pandas, Numpy, Scipy) | Data Visualization (Matplotlib, Plotly, Seaborn) | Machine Learning (Sklearn, NLTK, TensorFlow) | Data Collection and Storage (Web Parsing, SQL) | Basic HTML/CSS/JavaScript | 
+
+Currently my main interest is natural language processing and how it can be used to enhance the educational experience of users of elearning apps. Developing simpler, less costly models for specialized areas of instruction is my primary goal. I am interested in participating in outsourcing projects with anyone specializing in this field.
