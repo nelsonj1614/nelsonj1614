@@ -11,3 +11,5 @@ Currently my primary skills are:
 Python | EDA (Pandas, Numpy, Scipy) | Data Visualization (Matplotlib, Plotly, Seaborn) | Machine Learning (Sklearn, NLTK, TensorFlow) | Data Collection and Storage (Web Parsing, SQL) | Basic HTML/CSS/JavaScript | 
 
 Currently my main interest is natural language processing and how it can be used to enhance the educational experience of users of elearning apps. Developing simpler, less costly models for specialized areas of instruction is my primary goal. I am interested in participating in outsourcing projects with anyone specializing in this field.
+
+I am currently based in central Pennsylvania (Harrisburg area) but would be more than happy to relocate. Feel free to reach out to me via my gmail account. [gmail](nelsonj1614@gmail.com)
