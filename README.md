@@ -1,5 +1,5 @@
 ## Hello, I'm James, a Data Scientist with a passion for education. 👋
-[LinkedIn Badge](www.linkedin.com/in/james-nelson-39b41517a)
+[LinkedIn](www.linkedin.com/in/james-nelson-39b41517a)
 [Resume](https://docs.google.com/document/d/1o2JkTBginy6LRU5YD8rUXwrg6eOmTYypLe1HT4EhDxI/edit?usp=sharing)
 [Project Repository](https://github.com/nelsonj1614/Data_Projects_TripleTen)
 
